@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #4285f4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #3367d6;
+}
+
+/* Added some basic styling for button colors */
+#noun1 { background-color: purple; }
+#verb { background-color: blue; }
+#adjective { background-color: green; }
+#noun2 { background-color: orange; }
+#setting { background-color: pink; }
+
+p {
+    margin: 10px 0;
+}
+
+#story {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#studentId {
+    font-style: italic;
+    color: #777;
+    cursor: pointer;
+}
